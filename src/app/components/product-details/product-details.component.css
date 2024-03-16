@@ -1,0 +1,32 @@
+.product-detail{
+    margin-left: 20px;
+}
+h2{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: #7a7979;
+}
+h3{
+font-size: 24px;
+}
+h4{
+font-size: 21px;
+}
+p{
+    color: #7a7979;
+    font-size: 18px;
+}
+button{
+    background-color: #148de2;
+    color: #fff;
+    width: 80px;
+    padding: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+button:hover{
+    background-color: #0593f9;
+}

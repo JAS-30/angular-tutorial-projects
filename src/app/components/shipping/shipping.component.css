@@ -1,0 +1,14 @@
+h3{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.shipping-item{
+    margin-left: 20px;
+    display: flex;
+    gap: 20px;
+}
+span{
+    margin-top: 30px;
+    font-size: 20px;
+    color: rgb(139, 137, 137);
+}

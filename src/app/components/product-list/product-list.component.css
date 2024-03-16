@@ -1,0 +1,38 @@
+h2{
+    font-size: 30px;
+    margin-left: 20px;
+    color: #7a7979;
+    font-weight: 700;
+
+}
+
+.product{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.product h3{
+    font-size: 24px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.product a{
+    text-decoration: none;
+    color: #148de2;
+}
+.product p{
+    color: #7a7979;
+    font-size: 18px;
+}
+.product button{
+    background-color: #148de2;
+    color: #fff;
+    width: 100px;
+    padding: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.product button:hover{
+    background-color: #0593f9;
+}

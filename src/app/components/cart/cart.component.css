@@ -1,0 +1,62 @@
+h3{
+    font-size: 30px;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: #0593f9;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+a:hover{
+    text-decoration: underline;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-left: 20px;
+}
+form div{
+    background-color: rgba(219, 217, 217, 0.3);
+    width: 600px;
+    padding: 20px;
+    
+}
+form div:hover{
+    background-color: rgba(219, 217, 217, 0.8); ;
+}
+form button{
+    background-color: #148de2;
+    color: #fff;
+    width: 120px;
+    padding: 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+form button:hover{
+        background-color: #0593f9;
+}
+input{
+    width: 450px;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-radius: 6px;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+.cart-item{
+    display: flex;
+    gap: 10px;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.cart-item span{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

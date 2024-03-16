@@ -1,0 +1,33 @@
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: #1079C5;
+    display: flex;
+    align-items: center;
+    gap: 70%;
+}
+nav h2{
+    font-size: 50px;
+    color: #fff;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    cursor: pointer;
+}
+nav button{
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    height: 50px;
+    border: none;
+    border-radius: 6px;
+    padding: 0 15px;
+    cursor: pointer;
+    color: #0593f9;
+    font-size: 16px;
+}
+nav button:hover{
+    background-color: rgba(210, 210, 250, 0.9);
+}
+nav button img{
+    height: 28px;
+}
